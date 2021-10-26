@@ -1,0 +1,21 @@
+body {
+  background-image: url("../../static/landing-image.png");
+  background-color: #666666;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 98vh;
+}
+
+.banner {
+  background-color: #333333;
+  position: absolute;
+  height: 100vh;
+  width: 20vw;
+  top: 0;
+  left: 200px;
+  background-image: url("../../static/moblab_logo_white.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 15vw;
+}
