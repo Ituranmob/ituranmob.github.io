@@ -6,7 +6,9 @@ export default function Home() {
     <p class="banner-text">Logo mais com uma cara nova!
       <br />
       <br />
-      Entre em contato, <a alt='paulo.henrique@ituran.com.br' target="_blank" href='mailto:paulo.henrique@ituran.com.br?subject=Landing Page Contact'>paulo.henrique@ituran.com.br</a>
+      Entre em contato,
+      <br />
+      <a alt='paulo.henrique@ituran.com.br' target="_blank" href='mailto:marketing@ituran.com.br?subject=Landing Page Contact'>marketing@ituran.com.br</a>
     </p>
   </div>
 }
