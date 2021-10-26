@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{EDuE:function(n,a,e){},RXBc:function(n,a,e){"use strict";e.r(a),e.d(a,"default",(function(){return o}));var t=e("q1tI"),c=e.n(t);e("EDuE");function o(){return c.a.createElement("div",{className:"banner"},c.a.createElement("p",{class:"banner-text"},"Logo mais com uma cara nova!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8bfaf9035f74f4258e63.js.map

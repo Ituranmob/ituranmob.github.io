@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{EDuE:function(e,n,a){},RXBc:function(e,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return r}));var t=a("q1tI"),c=a.n(t);a("EDuE");function r(){return c.a.createElement("div",{className:"banner"},c.a.createElement("p",{class:"banner-text"},"Logo mais com uma cara nova!",c.a.createElement("br",null),"Entre em ",c.a.createElement("a",{href:"mailto:paulo.henrique@ituran.com.br?subject=Landing Page Contact"},"contado")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-5f452232cd40ae291049.js.map

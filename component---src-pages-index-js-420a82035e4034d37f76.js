@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{EDuE:function(n,e,t){},RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));var u=t("q1tI"),c=t.n(u);t("EDuE");function a(){return c.a.createElement("div",{className:"banner"})}}}]);
+//# sourceMappingURL=component---src-pages-index-js-420a82035e4034d37f76.js.map

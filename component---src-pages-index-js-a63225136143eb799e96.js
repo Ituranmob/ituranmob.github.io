@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{EDuE:function(e,n,a){},RXBc:function(e,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return c}));var t=a("q1tI"),r=a.n(t);a("EDuE");function c(){return r.a.createElement("div",{className:"banner"},r.a.createElement("p",{class:"banner-text"},"Logo mais com uma cara nova!",r.a.createElement("br",null),"Entre em ",r.a.createElement("a",{src:"mailto:paulo.henrique@ituran.com.br"},"contado")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a63225136143eb799e96.js.map
