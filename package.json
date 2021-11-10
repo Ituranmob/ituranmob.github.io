@@ -2,7 +2,7 @@
   "name": "ituranmob.com.br",
   "private": true,
   "description": "Ituranmob landing page",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
