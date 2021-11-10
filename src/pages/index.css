@@ -7,6 +7,19 @@ body {
   height: 98vh;
 }
 
+.video {
+  position: absolute;
+  height: calc(100vh - 200px) !important;
+  top: 0;
+  width: calc(100vw - 20vw - 400px);
+  left: calc(100vw - 80vw + 200px);
+  margin: 100px;
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
 .banner {
   background-color: #2c3341;
   position: absolute;
@@ -24,7 +37,6 @@ body {
   color: #fff;
   text-align: center;
   margin: calc(50vh + 50px) 0;
-  height: 100vh;
 }
 
 .banner-text a {
