@@ -9,7 +9,7 @@ export default function Home() {
         <br />
         Entre em contato,
         <br />
-        <a alt='paulo.henrique@ituran.com.br' target="_blank" href='mailto:marketing@ituran.com.br?subject=Landing Page Contact'>marketing@ituran.com.br</a>
+        <a alt='contato@ituranmob.com.br' target="_blank" href='mailto:contato@ituranmob.com.br?subject=Landing Page Contact'>contato@ituranmob.com.br</a>
       </p>
     </div>
     <div class="video">
